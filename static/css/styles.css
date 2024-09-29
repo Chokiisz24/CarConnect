@@ -1,0 +1,16 @@
+body{
+    background-image: url(/static/img/background.png);
+    /* background-image: linear-gradient(to right, #ffffff, #d2caf6, #a497ea, #7465dd, #3533cd); */
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card-logo{
+    height: 30px;
+    width: 30px;
+}
+.navbar{
+    background-color: #0948dc00;
+
+}
